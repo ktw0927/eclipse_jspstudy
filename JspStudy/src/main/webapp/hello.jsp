@@ -12,7 +12,6 @@
 	System.out.println("str=>"+str); 
 	out.println("str="+str);
 	//document.write("str="+str+"<br>");
-	 %>
-	 <%=str%>
+%>
 </body>
 </html>
