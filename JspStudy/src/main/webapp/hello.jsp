@@ -13,6 +13,6 @@
 	out.println("str="+str);
 	//document.write("str="+str+"<br>");
 	 %>
-	 <%=str%>
+<%=str%>
 </body>
 </html>
