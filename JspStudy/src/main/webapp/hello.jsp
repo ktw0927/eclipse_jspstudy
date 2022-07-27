@@ -7,11 +7,11 @@
 <title>Jsp 첫번째 예제</title>
 </head>
 <body>
-<%
+ <%
 	String str="테스트";
 	System.out.println("str=>"+str); 
 	out.println("str="+str);
 	//document.write("str="+str+"<br>");
-%>
+ %>
 </body>
 </html>
